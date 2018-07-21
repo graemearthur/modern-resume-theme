@@ -8,10 +8,10 @@
     Description about the work on/with the project
 
 # Project test
-- name: Project name 2
-  link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+- name: CV Site
+  link: cv.rthur.me
+  github: graemearthur/cv
   quote: >
-    Short overview of the project (optional)
+    This is my CV
   description: | # this will include new lines to allow paragraphs
-    Description about the work on/with the project
+    Built my CV in to a website to show off a little to employers
